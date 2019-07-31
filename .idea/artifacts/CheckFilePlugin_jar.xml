@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="CheckFilePlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CheckFilePlugin_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CheckFilePlugin.jar">
+        <element id="module-output" name="CheckFilePlugin" />
+        <element id="extracted-dir" path="D:/javalib/com.springsource.org.apache.log4j-1.2.16.jar" path-in-jar="/" />
+      </element>
+    </root>
+  </artifact>
+</component>

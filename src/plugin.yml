@@ -1,0 +1,4 @@
+name: CheckFile
+main: com.github.qq44920040.CheckFilePlugin.Main
+version: 1.0
+commands:
